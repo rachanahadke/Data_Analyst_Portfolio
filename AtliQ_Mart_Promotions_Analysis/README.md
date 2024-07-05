@@ -90,10 +90,10 @@ The dataset includes transaction details such as product ID, category, sales amo
 (Note: Solutions to these ad hoc requests are provided in a separate SQL file.)
 
 ### Visualizations
-- **Dashboard:** [View the PowerBI dashboard on NovyPro](https://novypro.com/link_to_your_dashboard)
+- **Dashboard:** [View the PowerBI dashboard on NovyPro](https://project.novypro.com/k8gRbg)
 
 ## Files and Resources
-- **SQL Solutions:** [Download SQL Solutions](https://github.com/yourusername/yourrepository/blob/main/AtliQ_Mart_Promotions_Effectiveness/AdHoc_Solutions.sql)
+- **Video Presentation:** [Watch the video presentation](https://www.linkedin.com/posts/rachana-hadke_dataanalysis-powerbi-sql-activity-7215054427173318658-qQp-?utm_source=share&utm_medium=member_desktop)
 
 ## Conclusion
 The analysis provided valuable insights into the effectiveness of the Diwali 2023 and Sankranti 2024 promotions. The findings suggest that promotions significantly boosted sales during the periods and provided actionable recommendations for future promotional strategies.
