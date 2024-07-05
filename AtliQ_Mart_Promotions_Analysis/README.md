@@ -9,7 +9,6 @@ This project involves analyzing the effectiveness of promotions run during Diwal
 - [Data](#data)
 - [Methodology](#methodology)
 - [Analysis and Findings](#analysis-and-findings)
-- [Files and Resources](#files-and-resources)
 - [Conclusion](#conclusion)
 - [Usage Instructions](#usage-instructions)
 - [Contact Information](#contact-information)
@@ -79,4 +78,4 @@ The dataset includes transaction details such as product ID, category, sales amo
 The analysis provided valuable insights into the effectiveness of the Diwali 2023 and Sankranti 2024 promotions. The findings suggest that promotions significantly boosted sales during the periods and provided actionable recommendations for future promotional strategies.
 
 ## Contact Information
-For any questions or further information, please contact [LinkedIn]().
+For any questions or further information, please contact [LinkedIn](https://www.linkedin.com/in/rachana-hadke).
