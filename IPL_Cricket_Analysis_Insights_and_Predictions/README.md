@@ -55,7 +55,7 @@ The data used for this analysis was sourced from IPL 2021-2023 match records.
 5. **Top 3 All-Rounders:** Selection of the top 3 all-rounders based on their performance data over the past 3 years.
 
 ## Files and Resources
-- PowerBI Dashboard: [View the PowerBI dashboard on NovyPro](https://novypro.com/link_to_your_dashboard)
+- PowerBI Dashboard: [View the PowerBI dashboard on NovyPro](https://project.novypro.com/bOft8F)
 - Video Presentation: [Watch the video presentation](https://www.linkedin.com/posts/rachana-hadke_ipl2024-dataanalytics-sportsinsights-activity-7190742134277226497-UOWT?utm_source=share&utm_medium=member_desktop)
 
 ## Conclusion
