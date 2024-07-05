@@ -9,8 +9,10 @@ This project involves analyzing the effectiveness of promotions run during Diwal
 - [Data](#data)
 - [Methodology](#methodology)
 - [Analysis and Findings](#analysis-and-findings)
+- [Recommendations](#recommendations)
+- [Ad Hoc Requests](#ad-hoc-requests)
+- [Files and Resources](#files-and-resources)
 - [Conclusion](#conclusion)
-- [Usage Instructions](#usage-instructions)
 - [Contact Information](#contact-information)
 
 ## Project Description
@@ -36,7 +38,7 @@ The dataset includes transaction details such as product ID, category, sales amo
 
 ### Tools and Technologies
 - Power BI for data visualization
-- Excel for calculations and data analysis
+- MySQL for ad hoc requests
 
 ## Analysis and Findings
 ### Insights
@@ -71,8 +73,27 @@ The dataset includes transaction details such as product ID, category, sales amo
 - Adjust promotional strategies for low-performing products in Grocery & Staples and Personal Care.
 - Explore non-discount-based promotions for Personal Care.
 
+## Ad Hoc Requests
+### Store Performance Analysis
+1. **High-Value Products in BOGOF Promotions:** List of products with a base price greater than 500 and featured in 'BOGOF' promotions to identify high-value products that are heavily discounted.
+2. **Store Count by City:** Report on the number of stores in each city, sorted in descending order of store counts, to identify cities with the highest store presence.
+
+### Campaign Analysis
+3. **Revenue Before and After Campaigns:** Report displaying each campaign along with the total revenue generated before and after the campaign, helping evaluate the financial impact of the promotional campaigns.
+
+### Category Analysis
+4. **Incremental Sold Quantity (ISU%) During Diwali Campaign:** Report calculating the ISU% for each category during the Diwali campaign, with rankings based on ISU%, to assess the category-wise success and impact on incremental sales.
+
+### Product Analysis
+5. **Top 5 Products by Incremental Revenue Percentage (IR%):** Report featuring the top 5 products, ranked by IR%, across all campaigns, to identify the most successful products in terms of incremental revenue.
+
+(Note: Solutions to these ad hoc requests are provided in a separate SQL file.)
+
 ### Visualizations
 - **Dashboard:** [View the PowerBI dashboard on NovyPro](https://novypro.com/link_to_your_dashboard)
+
+## Files and Resources
+- **SQL Solutions:** [Download SQL Solutions](https://github.com/yourusername/yourrepository/blob/main/AtliQ_Mart_Promotions_Effectiveness/AdHoc_Solutions.sql)
 
 ## Conclusion
 The analysis provided valuable insights into the effectiveness of the Diwali 2023 and Sankranti 2024 promotions. The findings suggest that promotions significantly boosted sales during the periods and provided actionable recommendations for future promotional strategies.
