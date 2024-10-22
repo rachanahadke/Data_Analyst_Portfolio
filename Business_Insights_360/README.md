@@ -28,13 +28,6 @@ This project aims to deliver a 360-degree view of business performance by analyz
 - Evaluate marketing effectiveness.
 - Provide actionable insights to enhance decision-making.
 
-## Data
-This project utilizes a combination of internal and external datasets. Below are the main data sources:
-- **Sales Data**: Historical sales records with details such as product category, region, and time period.
-- **Marketing Data**: Information about campaigns, channels, and customer engagement.
-- **Customer Data**: Demographic and behavioral data of customers.
-- **Operational Data**: Performance metrics from various departments within the business.
-
 ## Methodology
 The following steps were followed in this project:
 1. **Data Collection**: Acquired data from various departments and verified the quality and completeness.
@@ -45,8 +38,8 @@ The following steps were followed in this project:
 6. **Analysis**: Analyzed the data to uncover correlations, trends, and performance gaps.
 
 ## Files and Resources
-- **Power BI Dashboard**: [https://app.powerbi.com/view?r=eyJrIjoiMjdmMzRkYjMtMTE3MC00YTRmLWIwNGUtZmU3Yzc2NjA3MTU1IiwidCI6IjA4N2M4YzBiLTZlNDEtNDNhNC05YmNhLWNkMzY1YzU1N2EzMSJ9]
-- **Video Presentation**: [https://www.youtube.com/embed/TsSnPcqI0k0?si=Yf5F63zrktEPVvxP]
+- **Power BI Dashboard**: [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjdmMzRkYjMtMTE3MC00YTRmLWIwNGUtZmU3Yzc2NjA3MTU1IiwidCI6IjA4N2M4YzBiLTZlNDEtNDNhNC05YmNhLWNkMzY1YzU1N2EzMSJ9)
+- **Video Presentation**: [Watch the video presentation](https://www.youtube.com/embed/TsSnPcqI0k0?si=Yf5F63zrktEPVvxP)
 
 ## Conclusion
 This project provided a detailed understanding of key business drivers and performance metrics, leading to actionable insights. By leveraging data from different areas, the Business Insights 360 project offers a holistic view, helping businesses make informed strategic decisions and drive growth.
@@ -54,8 +47,8 @@ This project provided a detailed understanding of key business drivers and perfo
 ## Contact Information
 For any questions or further discussion about this project, feel free to reach out:
 - **Name**: [Your Name]
-- **Email**: [rachanahadke2@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/rachana-hadke/]
+- **Email**: [Email](rachanahadke2@gmail.com)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/rachana-hadke/)
 
 ---
 
